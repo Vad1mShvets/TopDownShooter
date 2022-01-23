@@ -75,13 +75,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2518}
     - Class: 114
-      Script: {instanceID: 2686}
+      Script: {instanceID: 2658}
     - Class: 114
-      Script: {instanceID: 2716}
+      Script: {instanceID: 2688}
     - Class: 114
-      Script: {instanceID: 2880}
+      Script: {instanceID: 2718}
     - Class: 114
-      Script: {instanceID: 16214}
+      Script: {instanceID: 2882}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -279,6 +279,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 152bfdb96366785aa3cfb10248d5ccc1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIManager
   - hash:
       serializedVersion: 2
       Hash: 61b9d9b6f4b6a222dfea8b131b3d3227
@@ -645,12 +651,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Postprocessing.Runtime.dll
     namespaceName: UnityEngine.Rendering.PostProcessing
     className: AmbientOcclusion
-  - hash:
-      serializedVersion: 2
-      Hash: 152bfdb96366785aa3cfb10248d5ccc1
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: UIManager
   platform: 2
   scenePathNames:
   - Assets/Scenes/TopDownShooter.unity
